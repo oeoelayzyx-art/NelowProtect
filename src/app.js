@@ -429,4 +429,3 @@ try {
 }
 
 export default TitanBot;
-"dnd"
